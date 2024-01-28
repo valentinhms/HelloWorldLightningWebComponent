@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "HelloWorldLightningWebComponent",
+  "namespace": "",
+  "sfdcLoginUrl": "https://dhn000002uvczmac-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "59.0"
+}
